@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 
-baseurl: /dc-dbt
 
 plugins:
   - jekyll-relative-links
@@ -13,3 +12,5 @@ relative_links:
 
 include:
   - README.md
+
+baseurl: "/dc-dbt"
