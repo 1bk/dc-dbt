@@ -3,14 +3,14 @@ My Data Council KL presentation on dbt_ (data build tool) on 21st May 2020
 
 <div align="center">
     <a href="https://www.facebook.com/events/kuala-lumpur-malaysia/data-council-talks-6-virtual-edition/2673093313012581/" target="_blank">
-        <img src="/img/20200521_DataCouncil_Banner_DBT.jpg" alt="Data Council #6 Banner " width="1200" height="628" border="0" style="width: 80%; height: 80%; border: 0" />
+        <img src="./img/20200521_DataCouncil_Banner_DBT.jpg" alt="Data Council #6 Banner " width="1200" height="628" border="0" style="width: 80%; height: 80%; border: 0" />
     </a>
 </div>
 
 ## Watch it on YouTube!
 <div align="center">
     <a href="https://youtu.be/tqTDZDGPBD4?t=1224" target="_blank">
-        <img src="/img/yt-preview-dc-dbt.png" alt="Data Council #6 YouTube" width="512" height="384" border="0" style="width: 90%; height: 90%; border: 0" />
+        <img src="./img/yt-preview-dc-dbt.png" alt="Data Council #6 YouTube" width="512" height="384" border="0" style="width: 90%; height: 90%; border: 0" />
     </a>
 </div>
 
@@ -27,7 +27,7 @@ My Data Council KL presentation on dbt_ (data build tool) on 21st May 2020
 ## Download the Slides
 <div align="center">
     <a href="https://1bk.github.io/dc-dbt/docs/20200521_DataCouncil_DBT.pdf" target="_blank">
-        <img src="/img/dbt-slides-download-preview.png" alt="DBT Slides Download " width="1056" height="638" border="0" style="width: 90%; height: 90%; border: 0" />
+        <img src="./img/dbt-slides-download-preview.png" alt="DBT Slides Download " width="1056" height="638" border="0" style="width: 90%; height: 90%; border: 0" />
     </a>
 </div>
 
