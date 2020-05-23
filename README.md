@@ -26,7 +26,7 @@ My Data Council KL presentation on dbt_ (data build tool) on 21st May 2020
 
 ## Download the Slides
 <div align="center">
-    <a href="/docs/20200521_DataCouncil_DBT.pdf" target="_blank">
+    <a href="{{site.baseurl}}/docs/20200521_DataCouncil_DBT.pdf" target="_blank">
         <img src="/img/dbt-slides-download-preview.png" alt="DBT Slides Download " width="1056" height="638" border="0" style="width: 90%; height: 90%; border: 0" />
     </a>
 </div>
