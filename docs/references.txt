@@ -1,0 +1,13 @@
+### References used to build this website.
+
+# YouTube image overlay generator
+https://github.com/0xbsec/yt-embed/
+
+# Jekyll baseurl solution for relative links
+https://stackoverflow.com/questions/16316311/github-pages-and-relative-paths
+
+# href - force baseurl linkage
+https://github.com/jekyll/jekyll/issues/332
+
+# Like button generator
+https://likebtn.com/en/like-button-generator
